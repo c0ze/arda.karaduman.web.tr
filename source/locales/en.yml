@@ -1,0 +1,28 @@
+en:
+  address: Touken Sangubashi Mansion 303, Yoyogi 4-22-2, Shibuya, Tokyo
+  skills:
+    main_language: Mainly proficient in Ruby
+    linux: Using Linux as main OS since 2008. Very comfortable in unix environments and writing bash scripts
+    aws: Extensive knowledge of AWS resources
+    ci: Proficient in Jenkins / Vagrant / Puppet / Chef Continuous Integration and Continuous Deployment tools, Git CVS
+    method: Experience with TDD, BDD, Agile and GitHub driven development
+    functional: Functional programming background
+    data_science: Familiar with Data Science concepts
+    imperative: Experience writing Java, JavaScript, C++, PHP
+    web_api: |
+      Experience in designing and implementing Web APIs.  
+      A Ruby library for accessing Kii Cloud API can be found here (not complete)  
+    cocos: |
+      Some experience with Game development libraries such as Cocos2dx and Gosu.  
+      A Sample project written in Ruby Gosu can be found at  
+  experience:
+    front_end: Frontend Tools
+    back_end: Backend Tools
+    test: Testing, Benchmarking and Profiling
+    persistance: Persistance
+  projects:
+    kii_sdk: |
+      [Kii Ruby SDK](https://github.com/c0ze/KiiGem) (SDK written in Ruby to use Kii Cloud)
+    kii_rss: KiiRSS (RSS reader using Kii Cloud to store feeds. Static Page written in Javascript using Angular)
+    invaderoids: |
+      [Invaderoids](https://github.com/c0ze/invaderoids), an Asteroids clone, made with gosu in Ruby

@@ -1,0 +1,13 @@
+language: ruby
+rvm:
+  - 2.2.3
+script: "bundle exec rake generate && bundle exec rake s3"
+branches:
+  only:
+    - releases
+env:
+  global:
+    - secure: 
+    - secure: 
+    - AWS_REGION="us-east-1"
+    - AWS_BUCKET_NAME="arda.karaduman.web.tr"
