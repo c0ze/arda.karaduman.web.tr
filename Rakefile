@@ -403,6 +403,18 @@ task :list do
   puts "(type rake -T for more detail)\n\n"
 end
 
+def traverse_directory(path)
+  Dir.entries(path).map do |f|
+    next if [".", ".."].include? f
+    f_path = File.join(path, f)
+    if File.directory? f_path
+      traverse_directory f_path
+    else
+      f_path
+    end
+  end
+end
+
 desc "Deploy via S3"
 task :s3 do
 
