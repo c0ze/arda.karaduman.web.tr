@@ -1,0 +1,28 @@
+ja:
+  address: 東京都渋谷区代々木4-22-2東建参宮橋マンション303
+  skills:
+    main_language: メイン開発言語Ruby
+    linux: Linux使用
+    aws: AWS 経験
+    ci: Jenkins / Vagrant / Puppet / Chef使用ディプロイメントの経験
+    method: GitHub使用してTDD, BDD, アジャイル開発経験
+    functional: 関数型プログラミング知識
+    data_science: データサイエンス知識
+    imperative: Java, JavaScript, C++, PHP開発の経験
+    web_api: |
+      Web APIのデザインと開発経験  
+      KiiのAPIを使用してるサンプルプロジェクト：  
+    cocos: |
+      Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発  
+      サンプルプロジェクト：  
+  experience:
+    front_end: フロントエンド
+    back_end: バックエンド
+    test: テスト＆プロファイリング
+    persistance: データベース
+  projects:
+    kii_sdk: |
+      [Kii Ruby SDK](https://github.com/c0ze/KiiGem) (Rubyで書いたKii Cloudライブラリー)
+    kii_rss: Kii RSSフィードリーダー
+    invaderoids: |
+      [Invaderoids](https://github.com/c0ze/invaderoids)Rubyとgosuで作ったアステロイドクローン
