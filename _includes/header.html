@@ -5,14 +5,18 @@
     </h1>
     <p>{{ site.description }}</p>
 
-    <div style="float: right; margin-left: 20px" ><img src="/images/arda.jpg" width="200" /></div>
+    <img src="/images/arda.jpg" width="200" />
 
-    <div class="trigger">
+    <ul>
       {% for my_page in site.pages %}
       {% if my_page.title %}
-      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <li>
+        <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">
+          <strong>{{ my_page.title }}</strong>
+        </a>
+      </li>
       {% endif %}
       {% endfor %}
-    </div>
+    </ul>
 
 </header>
