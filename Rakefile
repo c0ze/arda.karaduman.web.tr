@@ -47,7 +47,7 @@ task :s3 do
     key = f.gsub(local_dir+"/", "")
     ext = File.extname(f)
     if ext == ".html"
-      key = key.gsub(".html", "")
+#      key = key.gsub(".html", "")
       s3.put_object bucket: bucket_name, key: key, body: File.open(f), acl: "public-read", content_type: "text/html"
     else
       s3.put_object bucket: bucket_name, key: key, body: File.open(f), acl: "public-read"
