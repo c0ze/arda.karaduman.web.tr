@@ -7,7 +7,4 @@
 * {% t skills.data_science %}
 * {% t skills.imperative %}
 * {% t skills.web_api %}
-  https://github.com/c0ze/KiiRubyLib
 * {% t skills.cocos %}
-  https://github.com/c0ze/invaderoids
-

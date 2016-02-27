@@ -36,10 +36,26 @@ __Interested In__: (_no experience, but would like to get my hands dirty with_)
 
 # Work Experience
 
-## Developer, Aiming Inc
-### Tokyo — June 2014 - Present
+## Senior Software Developer, Allm Inc
 
-Developing the API backend for a popular MMORPG for mobile systems.
+### Tokyo — December 2014 - Present
+
+API / Backend development for content sharing and publishing platform (to see an example application which uses our platform, check [Kidint](https://www.kidint.com/intl/)). Wifi based customer tracking platform to retail BI application ([Followup](http://www.allm.net/en/followup-en/)).
+
+_Roles_:
+
+* API development using Ruby On Rails
+* AWS Integration
+* Front End Integration using Angular (1.3)
+* Standalone service development for IoT and peripherals (Go lang service which runs on raspberry pi, integration with BLE beacons and wifi)
+* IoT massive deployment & peripheral management
+* API development in Go
+
+## Developer, Aiming Inc
+
+### Tokyo — June 2014 - December 2014
+
+Developer of the API backend for a popular MMORPG for mobile platforms.
 
 _Roles_:
 
@@ -48,6 +64,7 @@ _Roles_:
 * Experience developing for a hit game with thousands of daily active users and hundreds of thousands of total registered users
 
 ## Dev Ops Engineer, Kii Inc
+
 ### Tokyo — August 2012 - April 2014
 
 Assumed various tasks to bring Kii Cloud up to spec with its competitors, Parse, Kinvey, StackMob. Kii Cloud is a multi region mBaas with special focus on the Asian market.
@@ -61,6 +78,7 @@ _Roles_:
 * Various automated tasks (reports for high touch customers, special requests to tune AWS resources, etc. written in Ruby / Bash deployed with puppet)
 
 ## Dev Ops Engineer, Mobilous Inc
+
 ### Tokyo — August 2011 - July 2012
 
 Assumed lead DevOps/CloudOps position in Mobilous. Mobilous is a indie venture set to create the easiest way to create Mobile apps with a web based drag and drop interface, and build and publish them in multiple app stores.
