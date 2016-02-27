@@ -23,4 +23,4 @@ github_username:  c0ze
 # Build settings
 markdown: kramdown
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor", "Gemfile*"]
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor", "Gemfile*", "locales"]
