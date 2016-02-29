@@ -24,3 +24,10 @@ github_username:  c0ze
 markdown: kramdown
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor", "Gemfile*", "locales"]
+gems:
+  - jekyll-assets
+#  - uglify
+
+assets:
+  sources:
+    - _assets

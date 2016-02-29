@@ -3,7 +3,9 @@ source "https://rubygems.org"
 
 gem 'rake'
 gem 'jekyll', '~> 3.1.2'
+gem 'jekyll-assets'
 gem 'i18n'
+gem 'uglifier'
 
 gem 'pry'
 gem 'dotenv'
