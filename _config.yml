@@ -26,7 +26,7 @@ markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "vendor", "Gemfile*", "locales"]
 gems:
   - jekyll-assets
-#  - uglify
+  - jekyll-press
 
 assets:
   sources:
