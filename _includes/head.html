@@ -13,7 +13,26 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-  {% js "js/scale.fix.js" %}
+  <script>
+    var metas = document.getElementsByTagName('meta');
+    var i;
+    if (navigator.userAgent.match(/iPhone/i)) {
+      for (i=0; i<metas.length; i++) {
+        if (metas[i].name == "viewport") {
+          metas[i].content = "width=device-width, minimum-scale=1.0, maximum-scale=1.0";
+        }
+      }
+      document.addEventListener("gesturestart", gestureStart, false);
+    }
+    function gestureStart() {
+      for (i=0; i<metas.length; i++) {
+        if (metas[i].name == "viewport") {
+          metas[i].content = "width=device-width, minimum-scale=0.25, maximum-scale=1.6";
+        }
+      }
+    }
+  </script>
+
   <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
