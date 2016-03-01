@@ -59,7 +59,7 @@ task :s3 do
 #      key = key.gsub(".html", "")
       s3.put_object bucket: bucket_name,
                     key: key,
-                    body: gzip(File.open(f)),
+                    body: gzip(File.read(f)),
                     acl: "public-read",
                     content_type: "text/html",
                     content_encoding: "gzip",
@@ -67,7 +67,7 @@ task :s3 do
     elsif ext == ".css"
       s3.put_object bucket: bucket_name,
                     key: key,
-                    body: gzip(File.open(f)),
+                    body: gzip(File.read(f)),
                     acl: "public-read",
                     content_type: "text/css",
                     content_encoding: "gzip",
@@ -75,7 +75,7 @@ task :s3 do
     elsif ext == ".js"
       s3.put_object bucket: bucket_name,
                     key: key,
-                    body: gzip(File.open(f)),
+                    body: gzip(File.read(f)),
                     acl: "public-read",
                     content_type: "application/javascript",
                     content_encoding: "gzip",
