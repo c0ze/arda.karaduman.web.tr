@@ -6,6 +6,7 @@ gem 'jekyll', '~> 3.1.2'
 gem 'jekyll-assets'
 gem 'i18n'
 gem 'mini_magick'
+gem 'reduce'
 
 gem 'pry'
 gem 'dotenv'
