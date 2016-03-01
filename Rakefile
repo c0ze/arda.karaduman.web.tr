@@ -81,7 +81,11 @@ task :s3 do
                     content_encoding: "gzip",
                     cache_control: "max-age=604800"
     else
-      s3.put_object bucket: bucket_name, key: key, body: File.open(f), acl: "public-read"
+      s3.put_object bucket: bucket_name,
+                    key: key,
+                    body: File.open(f),
+                    acl: "public-read",
+                    cache_control: "max-age=604800"
     end
   end
 
