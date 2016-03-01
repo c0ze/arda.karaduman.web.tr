@@ -16,6 +16,14 @@ def traverse_directory(path)
   end
 end
 
+def gzip(data)
+  sio = StringIO.new
+  gz = Zlib::GzipWriter.new(sio)
+  gz.write(data)
+  gz.close
+  sio.string
+end
+
 desc "Deploy via S3"
 task :s3 do
 
@@ -49,7 +57,29 @@ task :s3 do
     ext = File.extname(f)
     if ext == ".html"
 #      key = key.gsub(".html", "")
-      s3.put_object bucket: bucket_name, key: key, body: File.open(f), acl: "public-read", content_type: "text/html"
+      s3.put_object bucket: bucket_name,
+                    key: key,
+                    body: gzip(File.open(f)),
+                    acl: "public-read",
+                    content_type: "text/html",
+                    content_encoding: "gzip",
+                    cache_control: "max-age=604800"
+    elsif ext == ".css"
+      s3.put_object bucket: bucket_name,
+                    key: key,
+                    body: gzip(File.open(f)),
+                    acl: "public-read",
+                    content_type: "text/css",
+                    content_encoding: "gzip",
+                    cache_control: "max-age=604800"
+    elsif ext == ".js"
+      s3.put_object bucket: bucket_name,
+                    key: key,
+                    body: gzip(File.open(f)),
+                    acl: "public-read",
+                    content_type: "application/javascript",
+                    content_encoding: "gzip",
+                    cache_control: "max-age=604800"
     else
       s3.put_object bucket: bucket_name, key: key, body: File.open(f), acl: "public-read"
     end
