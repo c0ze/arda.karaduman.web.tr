@@ -5,7 +5,7 @@
     </h1>
     <p>{{ site.description }}</p>
 
-    {% img images/arda.jpg magick:resize:200x300 %}
+    {% img images/arda.jpg magick:resize:200x300 magick:quality:78 %}
 
     <ul>
       {% for my_page in site.pages %}
