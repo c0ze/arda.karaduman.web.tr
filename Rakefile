@@ -4,18 +4,19 @@ require "reduce"
 
 Dotenv.load
 
-local_dir = './_site'
+def local_dir; './_site'; end
 
-access_key = ENV['AWS_ACCESS_KEY']
-secret_key = ENV['AWS_SECRET_KEY']
-region = ENV['AWS_REGION']
-bucket_name = ENV['AWS_BUCKET_NAME']
+def access_key; ENV['AWS_ACCESS_KEY']; end
+def secret_key; ENV['AWS_SECRET_KEY']; end
+def region;  ENV['AWS_REGION']; end
+def bucket_name;  ENV['AWS_BUCKET_NAME']; end
 
-file_types = {
-  ".html": { type: "text/html" }
-  ".css": { type: "text/css" }
-  ".js": { type: "application/javascript" }
-}
+def file_types
+  { ".html" => { type: "text/html" },
+    ".css" => { type: "text/css" },
+    ".js" => { type: "application/javascript" }
+  }
+end
 
 def traverse_directory(path)
   Dir.entries(path).map do |f|
