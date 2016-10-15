@@ -1,9 +1,9 @@
 en:
-  address: Touken Sangubashi Mansion 303, Yoyogi 4-22-2, Shibuya, Tokyo
+  address: Choufu, tokyo
   skills:
     main_language: Mainly proficient in Ruby and Go
     linux: Debian & Emacs user. Very comfortable in unix environments and writing bash scripts
-    aws: Extensive knowledge of AWS resources
+    aws: Extensive knowledge of AWS resources. Hands on experience with EC2, S3, EMR, Dynamo, SES, IAM, Route53
     ci: Early adopter of Continuous Integration and Continuous Deployment. Proficient in Jenkins / GitlabCI / Travis / Docker / Vagrant / Puppet / Ansible
     method: Experience with TDD, BDD, Agile and GitHub driven development
     functional: Functional programming background
@@ -26,4 +26,4 @@ en:
     kii_rss: |
       [KiiSS](https://github.com/c0ze/kiiss) (RSS reader using Kii Cloud to store feeds. Static Page written in Javascript using Angular)
     invaderoids: |
-      [Invaderoids](https://github.com/c0ze/invaderoids), an Asteroids clone, made with gosu in Ruby
+      [Invaderoids](https://github.com/c0ze/invaderoids), an Asteroids clone, made with gosu, written in Ruby

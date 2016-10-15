@@ -15,7 +15,7 @@ akaraduman@gmail.com
 
 ## Profile
 
-A longterm resident in Japan (10 years), and an IT specialist looking to enhance his professional skills in a dynamic and stable environment. A hipster coder who enjoys following the latest trends in programming, showing up in local programming meetups whenever possible.
+A Pragmatic Programmer living In Japan since 2004. I like programming, tinkering, hacking. Checking new languages, frameworks, trying new ideas.
 
 ### Skills
 {% include partials/skills.markdown %}
@@ -30,26 +30,28 @@ __Experience with__:
 
 {% include partials/experience_tools.markdown %}
 
-__Interested In__: (_no experience, but would like to get my hands dirty with_)
-
-{% include partials/get_dirty.markdown %}
-
 # Work Experience
 
 ## Senior Software Developer, Allm Inc
 
 ### Tokyo — December 2014 - Present
 
-API / Backend development for content sharing and publishing platform (to see an example application which uses our platform, check [Kidint](https://www.kidint.com/intl/)). Wifi based customer tracking platform to retail BI application ([Followup](http://www.allm.net/en/followup-en/)).
-
 _Roles_:
 
-* API development using Ruby On Rails
-* AWS Integration
-* Front End Integration using Angular (1.3)
-* Standalone service development for IoT and peripherals (Go lang service which runs on raspberry pi, integration with BLE beacons and wifi)
-* IoT massive deployment & peripheral management
-* API development in Go
+- API / Backend development for content sharing and publishing platform (to see an example application which uses our platform, check [Kidint](https://www.kidint.com/intl/))
+  * API development using Ruby On Rails
+  * AWS Integration
+  * Front End Integration using Angular
+
+- Wifi based customer tracking platform to retail BI application ([Followup](http://www.allm.net/en/followup-en/)).
+  * Standalone service development for IoT and peripherals (Go lang service which runs on raspberry pi, integration with BLE beacons and wifi)
+  * IoT massive deployment & peripheral management
+  * API development in Go
+
+- API development for triage application [FastED](https://itunes.apple.com/us/app/fast-ed-triage/id1099779970?mt=8)
+  * API development using Grape
+  * Admin panel (angular and bootstrap)
+  * CI & CD (GitlabCI & Docker)
 
 ## Developer, Aiming Inc
 
@@ -132,7 +134,7 @@ Digital circuit design, Microprocessor Architecture, Instruction Set Architectur
 
 ## About this site
 
-It has been built using [OctoPress](http://octopress.org/), with some custom modifications to localize it properly with [I18n](https://github.com/svenfuchs/i18n) gem and served from an S3 bucket as a static website. The theme used for the site is [slash](http://tommy351.github.io/Octopress-Theme-Slash/).
+It has been built using [Jekyll](https://jekyllrb.com/), with some custom modifications to localize it properly with [I18n](https://github.com/svenfuchs/i18n) gem and served from an S3 bucket as a static website. The theme used for the site is [minimal](http://orderedlist.com/minimal/).
 
 ## My Story
 
@@ -144,15 +146,15 @@ and eventually an [Amiga 500](http://en.wikipedia.org/wiki/Amiga_500). I got my 
 it was not what I wanted to do. Between 1998 and 2000 I was busy with my band, and trying to
 decide what I wanted to do with my life. My band was called [Pagan](https://myspace.com/pagantr) which I formed with
 some high school friends. We were one of the first Black Metal bands to come from Turkey.
-In the mean time I began working in an Internet Service Provider with the recommendation
-of a friend. Internet was getting popular in Turkey at that time, with people
+In the mean time I began working in an Internet Service Provider which were quite
+new. Internet was getting popular in Turkey at that time, with people
 using dial up services with 56k modems. I was interested in this new technology, mainly
 because I had a 14k modem since 1996 and was using very first Internet services like ICQ,
 e-mail, IRC for a while. 
 
 The first ISP I worked for was [SuperOnline](http://www.superonline.net/), one of the most important initial ISPs of
 Turkey. Today they are still around, but not as big as they used to be. I started as
-a technical support desk agent there as I knew how to use the internet, and could help
+a technical support desk agent there, as I knew how to use the internet, and could help
 people get connected. While I was working there, I was inspired by the IT industry
 and decided to do my major in Computer Science. In year 2000 I began my studies in
 [Istanbul Bilgi University](http://www.bilgi.edu.tr/en/). Bilgi University is a private university, but I had
@@ -173,14 +175,13 @@ It was here when I first learned to use Linux, and get to meet one of my persona
 [Richard Stallman](http://vimeo.com/3210935) in person and get initiated in the church of Emacs.
 
 During my studies in Bilgi University, I got captivated by Japanese culture, and began
-taking Japanese lessons. I spent the summer of 2003 in Japan and met my future wife
-there. After my graduation I married and moved to Japan by the end of 2004. In 2005
-I took Japanese lessons in [Takushoku University](http://www.takushoku-u.ac.jp/english/) and researched post graduate opportunities
+taking Japanese lessons. I spent the summer of 2003 in Japan in volunteer workcamps organised by [NICE](http://nice1.gr.jp/e/indexe.html).
+After my graduation I moved to Japan by the end of 2004. In 2005 I started
+taking Japanese lessons in [Takushoku University](http://www.takushoku-u.ac.jp/english/) and researched post graduate opportunities
 in Japan. In 2006 I got accepted to [Keio University Computer Science](http://www.ics.keio.ac.jp/drupal/en) master's programme.
 I studied in [Amano Laboratory](http://am.ics.keio.ac.jp/wp/) in Keio University, and my research topic was memory optimization
 for embedded processors. I got my master's degree in 2008 from Keio University in Master of
-Engineering in Science. Unfortunately during this time, my marriage didn't work well so I had
-to split with my wife in 2008. From 2008 to 2011 I studied for my Ph D in Keio University
+Engineering in Science. From 2008 to 2011 I studied for my Ph D in Keio University
 in the same laboratory and field. Unfortunately during this time, I realised I wanted
-to work on more software related field rather than hardware, so I quit my studies in 2011
+to work on a more software related field rather than hardware, so I quit my studies in 2011
 and began working for my first company, Mobilous.
