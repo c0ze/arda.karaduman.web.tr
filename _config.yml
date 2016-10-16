@@ -30,3 +30,12 @@ gems:
 assets:
   sources:
     - _assets
+
+files:
+  en:
+    - title: Google Doc
+      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/edit?usp=sharing
+    - title: PDF
+      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=pdf
+    - title: MS Word
+      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=doc
