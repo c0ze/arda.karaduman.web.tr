@@ -5,6 +5,7 @@ date: 2014-02-06 02:54
 comments: true
 sharing: true
 footer: true
+language: tr
 ---
 
 ### Arda Karaduman

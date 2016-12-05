@@ -15,7 +15,7 @@ akaraduman@gmail.com
 
 ## プロファイル
 日本在住歴10年のITスペシャリストです。
-最新のプログラミング技術を使用して優れたシステム作ることを目指しています。IT関係の会議と勉強会など積極的によく参加しています。
+最新のプログラミング技術を使用して優れたシステム作ることを目指しています。
 
 ### スキル
 {% include partials/skills.markdown %}
@@ -36,8 +36,32 @@ __興味ありもの__: (_経験者ではないけど、是非とも使用して
 
 ## 職歴
 
+### シニアー開発エンジニアー, 株式会社 Allm
+#### 東京 　 12月 2014 - 現在
+
+
+医療系のAPIとアプリ開発。
+
+_履歴_：
+
+* トリアージアプリのAPI開発。プロジェクトアプリ： [FastED](https://itunes.apple.com/us/app/fast-ed-triage/id1099779970?mt=8)
+  - Grape (Ruby)フレームワークでAPI開発
+  - Angular JS/ Coffee Scriptを使ってフロントエンド開発
+  - GitlabCI & Dockerを使用してCIとCD
+* 教育専用CMS開発。プジェクトサイト： [Kidint](https://www.kidint.com/intl/)
+  - Angular JS/ Coffee Scriptを使ってフロントエンド開発
+  - モバイルとウェブ向けのAPI開発
+  - AWSインテグレーション
+  - ソーシャルメディアインテグレーション
+* コンシューマーデータ分析向けのBI サービス開発 。
+  プロジェクトサイト：[Followup](https://www.allm.net/en/followup-en/)
+  - Angular JS/ Coffee Scriptを使ってフロントエンド開発
+  - IoT ビーコン展開と管理システム開発(Estimote)
+  - Go言語でAPI開発
+
+
 ### 開発者、株式会社Aiming
-#### 東京 ー 2014年6月 - 現在
+#### 東京 ー 2014年6月 - 2014年11月
 
 オンラインゲーム企画、開発、プロデュース、運営を行う会社です。
 基本無料のビジネスモデのキャリアがあり国産では数少ない3D-MMORPGの開発等を行いました。

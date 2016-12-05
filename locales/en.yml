@@ -8,13 +8,16 @@ en:
     method: Experience with TDD, BDD, Agile and GitHub driven development
     functional: Functional programming background
     data_science: Familiar with Data Science concepts
-    imperative: Experience writing Legacy languages such as, Java, JavaScript, C++, PHP
+    imperative: Experience writing Legacy languages such as, Java, C++, PHP
     web_api: |
       Experience in designing and implementing Web APIs.  
       A Ruby library for accessing Kii Cloud API [can be found here](https://github.com/c0ze/KiiGem) (not complete)  
     cocos: |
       Some experience with Game development libraries such as Cocos2dx and Gosu.  
       A Sample project written in Ruby Gosu can be found [here](https://github.com/c0ze/invaderoids)  
+    front_end: |
+      Front End development experience with Angular 1.x and Bootstrap. Some Node.js experience.  
+      A sample project which is a web based RSS reader can be found [here](https://github.com/c0ze/kiiss)  
   experience:
     front_end: Frontend Tools
     back_end: Backend Tools
