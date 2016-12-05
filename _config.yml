@@ -39,3 +39,10 @@ files:
       url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=pdf
     - title: MS Word
       url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=doc
+  ja:
+    - title: Google Doc
+      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/edit?usp=sharing
+    - title: PDF
+      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/export?format=pdf
+    - title: MS Word
+      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/export?format=doc
