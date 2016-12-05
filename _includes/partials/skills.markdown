@@ -6,5 +6,6 @@
 * {% t skills.functional %}
 * {% t skills.data_science %}
 * {% t skills.imperative %}
+* {% t skills.front_end %}
 * {% t skills.web_api %}
 * {% t skills.cocos %}

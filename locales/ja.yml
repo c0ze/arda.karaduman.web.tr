@@ -10,14 +10,11 @@ ja:
     data_science: データサイエンス知識
     front_end: |
       Angular 1.x と Bootstrapでフロントエンド開発経験.  
-      サンプルSPAプロジェクト：  
     imperative: Java, C++, PHP開発の経験
     web_api: |
-      Web APIのデザインと開発経験  
-      KiiのAPIを使用してるサンプルプロジェクト：  
+      Web APIのデザインと開発経験
     cocos: |
-      Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発  
-      サンプルプロジェクト：  
+      Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発
   experience:
     front_end: フロントエンド
     back_end: バックエンド
