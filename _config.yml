@@ -20,6 +20,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: ardakaraduman
 github_username:  c0ze
 
+s3_deploy:
+  minify: true
+  compress: true
+
 # Build settings
 markdown: kramdown
 
