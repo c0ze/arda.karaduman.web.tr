@@ -21,8 +21,8 @@ twitter_username: ardakaraduman
 github_username:  c0ze
 
 s3_deploy:
-  minify: true
-  compress: true
+  minify: false
+  compress: false
 
 # Build settings
 markdown: kramdown
