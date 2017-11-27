@@ -4,13 +4,12 @@ en:
     main_language: Mainly proficient in Ruby and Go
     linux: Debian & Emacs user. Very comfortable in unix environments and writing bash scripts
     aws: Extensive knowledge of AWS resources. Hands on experience with EC2, S3, EMR, Dynamo, SES, IAM, Route53
-    ci: Early adopter of Continuous Integration and Continuous Deployment. Proficient in Jenkins / GitlabCI / Travis / Docker / Vagrant / Puppet / Ansible
+    ci: Early adopter of Continuous Integration and Continuous Deployment. Proficient in GitlabCI / Travis / Docker / Kubernetes
     method: Experience with TDD, BDD, Agile and GitHub driven development
     functional: Functional programming background
-    data_science: Familiar with Data Science concepts
-    imperative: Experience writing Legacy languages such as, Java, C++, PHP
+    imperative: Experience writing Legacy languages such as, Java, C, PHP
     web_api: |
-      Experience in designing and implementing Web APIs.  
+      Experience in designing and implementing Restful and GraphQL Web APIs.  
       A Ruby library for accessing Kii Cloud API [can be found here](https://github.com/c0ze/KiiGem) (not complete)  
     cocos: |
       Some experience with Game development libraries such as Cocos2dx and Gosu.  

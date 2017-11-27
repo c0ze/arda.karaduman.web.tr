@@ -4,15 +4,15 @@ ja:
     main_language: メイン開発言語はRubyとGo
     linux: DebianとEmacsユーザー
     aws: 様々なAWSサービスの 経験 (EC2, S3, EMR, Dynamo, SES, IAM, Route53)
-    ci: Jenkins / Gitlab CI / Travis / Docker / Vagrant / Puppet / Ansible使用ディプロイメントの経験
+    ci: Gitlab CI / Travis / Docker / Kubernetes使用ディプロイメントの経験
     method: GitHub使用してTDD, BDD, アジャイル開発経験
     functional: 関数型プログラミング知識
     data_science: データサイエンス知識
     front_end: |
       Angular 1.x と Bootstrapでフロントエンド開発経験.  
-    imperative: Java, C++, PHP開発の経験
+    imperative: Java, C, PHP開発の経験
     web_api: |
-      Web APIのデザインと開発経験
+      RestfulとGraphQLのWeb APIのデザインと開発経験
     cocos: |
       Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発
   experience:
