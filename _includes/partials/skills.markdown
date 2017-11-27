@@ -4,7 +4,6 @@
 * {% t skills.ci %}
 * {% t skills.method %}
 * {% t skills.functional %}
-* {% t skills.data_science %}
 * {% t skills.imperative %}
 * {% t skills.front_end %}
 * {% t skills.web_api %}
