@@ -36,18 +36,16 @@ assets:
     - _assets
 
 files:
-  en:
+  formats:
     - title: Google Doc
-      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/edit?usp=sharing
+      params: edit?usp=sharing
     - title: PDF
-      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=pdf
+      params: export?format=pdf
     - title: MS Word
-      url: https://docs.google.com/document/d/10wVN2rhAXJf3nHUm6NvUH3hLvTu38NbgEg9NJxdFkPo/export?format=doc
-  ja:
-    - title: Google Doc
-      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/edit?usp=sharing
-    - title: PDF
-      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/export?format=pdf
-    - title: MS Word
-      url: https://docs.google.com/document/d/10C8As3d0tY3kEdhyxE5OsSMxZm9mLD70gER4BIaiq_o/export?format=doc
-  tr:
+      params: export?format=doc
+  langs:
+    en:
+      id: 1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0
+    ja:
+      id: 1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk
+    tr:
