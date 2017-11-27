@@ -23,6 +23,8 @@ en:
     test: Testing, Benchmarking and Profiling
     persistance: Persistance
   projects:
+    iron_functions: |
+      Maintainer of Open Source serverless lambda functions framework [Iron Functions](open.iron.io) since July 2017. [GitHub link](https://github.com/iron-io/functions)
     kii_sdk: |
       [Kii Ruby SDK](https://github.com/c0ze/KiiGem) (SDK written in Ruby to use Kii Cloud)
     kii_rss: |
