@@ -44,7 +44,7 @@ __興味ありもの__: (_経験者ではないけど、是非とも使用して
 
 _履歴_：
 
-* トリアージアプリのAPI開発。プロジェクトアプリ： [FastED](https://itunes.apple.com/us/app/fast-ed-triage/id1099779970?mt=8)
+* トリアージアプリのAPI開発。プロジェクトアプリ： [FastED](https://fasted.allm.net/)
   - Grape (Ruby)フレームワークでAPI開発
   - Angular JS/ Coffee Scriptを使ってフロントエンド開発
   - GitlabCI & Dockerを使用してCIとCD
@@ -65,6 +65,7 @@ _履歴_：
 
 オンラインゲーム企画、開発、プロデュース、運営を行う会社です。
 基本無料のビジネスモデのキャリアがあり国産では数少ない3D-MMORPGの開発等を行いました。
+[幻塔戦記 グリフォン](https://sp-griffon.jp/)
 
 _履歴_：
 

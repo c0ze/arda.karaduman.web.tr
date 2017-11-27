@@ -48,7 +48,7 @@ _Roles_:
   * IoT massive deployment & peripheral management
   * API development in Go
 
-- API development for triage application [FastED](https://itunes.apple.com/us/app/fast-ed-triage/id1099779970?mt=8)
+- API development for triage application [FastED](https://fasted.allm.net/)
   * API development using Grape
   * Admin panel (angular and bootstrap)
   * CI & CD (GitlabCI & Docker)
@@ -57,7 +57,7 @@ _Roles_:
 
 ### Tokyo — June 2014 - December 2014
 
-Developer of the API backend for a popular MMORPG for mobile platforms.
+Developer of the API backend for a popular MMORPG for mobile platforms. [幻塔戦記 グリフォン](https://sp-griffon.jp/)
 
 _Roles_:
 
