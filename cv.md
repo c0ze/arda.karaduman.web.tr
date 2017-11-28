@@ -20,6 +20,9 @@ A Pragmatic Programmer living In Japan since 2004. I like programming, tinkering
 ### Skills
 {% include partials/skills.markdown %}
 
+### Projects
+{% include partials/projects.markdown %}
+
 ### Toolset
 
 __Preferred environment__:
