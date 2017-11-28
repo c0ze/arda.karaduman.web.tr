@@ -22,7 +22,7 @@ ja:
     persistance: データベース
   projects:
     iron_functions: |
-      オープンソースサーバーレスフレームワーク[Iron Functions](open.iron.io)のメインテナンス
+      オープンソースサーバーレスフレームワーク[Iron Functions](http://open.iron.io)のメインテナンス
     kii_sdk: |
       [Kii Ruby SDK](https://github.com/c0ze/KiiGem) (Rubyで書いたKii Cloudライブラリー)
     kii_rss: |
