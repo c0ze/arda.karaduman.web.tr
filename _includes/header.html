@@ -22,17 +22,15 @@
 
     <p>Resume files:</p>
     <ul>
-      {% for lang in site.files.langs[page.language] %}
-        {% if lang.id %}
-          {% for format in site.files.formats %}
+      {% if site.files.langs[page.language] %}
+        {% for format in site.files.formats %}
       <li>
-        <a class="page-link" href="https://docs.google.com/document/d/{{ lang.id }}/{{ format.params }}">
+        <a class="page-link" href="https://docs.google.com/document/d/{{ site.files.langs[page.language] }}/{{ format.params }}">
           <strong>{{ format.title }}</strong>
         </a>
       </li>
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
+        {% endfor %}
+      {% endif %}
     </ul>
 
 </header>

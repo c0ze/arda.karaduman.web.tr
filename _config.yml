@@ -44,8 +44,6 @@ files:
     - title: MS Word
       params: export?format=doc
   langs:
-    en:
-      id: 1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0
-    ja:
-      id: 1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk
+    en: 1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0
+    ja: 1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk
     tr:
