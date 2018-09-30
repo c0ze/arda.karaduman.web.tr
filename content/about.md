@@ -189,7 +189,7 @@ Digital circuit design, Microprocessor Architecture, Instruction Set Architectur
 ## Music Projects
 
 - 2008 - Current: Bass player at [Melted](http://melted.bandcamp.com/track/yamanote)
-- 2010 - 2012: Bass player at [Sinners](http://www.sorchaandthesinners.com/home)
+- 2010 - 2012: Bass player at [Sinners](https://sorchachisholm.bandcamp.com/album/sorcha-and-the-sinners)
 
 ## About this site
 
