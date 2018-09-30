@@ -15,26 +15,60 @@ draft = false
 [Google Doc](https://docs.google.com/document/d/1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk/edit?usp=sharing)
 
 ### スキル
-{% include partials/skills.markdown %}
+
+* メイン開発言語はRubyとGo
+* DebianとEmacsユーザー
+* 様々なAWSサービスの 経験 (EC2, S3, EMR, Dynamo, SES, IAM, Route53)
+* Gitlab CI / Circle CI / Travis / Docker / Kubernetes使用ディプロイメントの経験
+* GitHub使用してTDD, BDD, アジャイル開発経験
+* 関数型プログラミング知識
+* データサイエンス知識
+* React, Vue.js, Angular 1.x と Bootstrapでフロントエンド開発経験
+* Java, C, PHP開発の経験
+* RestfulとGraphQLのWeb APIのデザインと開発経験
+* Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発
 
 ### ツールセット
 
 __開発環境__:
 
-{% include partials/preferred_environment.markdown %}
+[Debian](http://www.debian.org/)([crunchbang](http://crunchbang.org/)), [Emacs](http://www.gnu.org/software/emacs/), [Ruby](https://www.ruby-lang.org/en/), [Go](https://golang.org/), [AWS](http://aws.amazon.com/)
 
 __経験ありもの__:
 
-{% include partials/experience_tools.markdown %}
-
-__興味ありもの__: (_経験者ではないけど、是非とも使用してみたい_)
-
-{% include partials/get_dirty.markdown %}
+- フロントエンド:
+  [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [BootStrap](http://getbootstrap.com/), EcmaScript6, [Hugo](https://gohugo.io)
+- バックエンド:
+  [iris](https://github.com/kataras/iris), [RubyOnRails](http://rubyonrails.org/), [GraphQL](https://github.com/rmosolgo/graphql-ruby)
+- テスト＆プロファイリング:
+  [RSpec](https://github.com/MiniProfiler/rack-mini-profiler)
+- データベース:
+  [Postgresql](http://www.postgresql.org/)
+- DevOps, CI & CD :
+  [CircleCI](https://circleci.com/), [Travis](https://travis-ci.org/), [Docker](https://www.docker.io/)
+- CVS :
+  [Git](http://git-scm.com/)
 
 ## 職歴
 
+### シニアー開発エンジニアー, 株式会社 Robotfund
+#### 東京 　 3月 2018 - 現在
+
+- LINEでのファンドの情報アプリ“未来のコツ”の開発
+  * https://www.daiwasbi.co.jp/special/mirai/
+  * https://www.daiwasbi.co.jp/pdf/news/153/news_20180903.pdf
+- ファンドの情報サイトの開発
+  * https://betterworld.daiwasbi.robotfund.jp/
+
+
+## フリータイム開発者, Iron.io
+### 7月 2017 - 現在
+
+* オープンソースサーバーレスファンクション [Iron Functions](https://open.iron.io)のサポートと開発
+
+
 ### シニアー開発エンジニアー, 株式会社 Allm
-#### 東京 　 12月 2014 - 現在
+#### 東京 　 12月 2014 - 3月 2018
 
 
 医療系のAPIとアプリ開発。
@@ -98,10 +132,6 @@ _履歴_：
 * インスタンスのASになるGlassfishのメンテナンス
 * PHPとSeleniumを使用してオートメーション
 
-## プロジェクト
-
-{% include partials/projects.markdown %}
-
 ## 学歴
 
 - B.S.    情報学部, [Istanbul Bilgi 大学](http://www.bilgi.edu.tr/en/), 2000 ~ 2004
@@ -138,4 +168,4 @@ _履歴_：
 
 ## このサイトについて
 
-[OctoPress](http://octopress.org/)使用して作ったサイトです。中身は[I18n](https://github.com/svenfuchs/i18n)でLocalizeされて、スタティックサイトとしてS3から運用してます。使用したティームは [slash](http://tommy351.github.io/Octopress-Theme-Slash/)です。
+[Hugo](https://gohugo.io/)使用して作ったサイトです。 使用したティームは[geo](https://github.com/alexurquhart/hugo-geo)です。
