@@ -4,10 +4,7 @@ languageCode = "en-us"
 title = "Arda Karaduman"
 disqusShortname = "coze"
 paginate = 5
-
-[taxonomies]
-	tag = "tags"
-	tutorial = "tutorials"
+theme = "hugo-geo"
 
 [params]
 	# Render the rotating globe in the sidebar
@@ -50,8 +47,8 @@ paginate = 5
 	# Nav links below the profile picture
 	[[params.navlinks]]
 	name = "About"
-	url = "/english"
+	url = "about/index.html"
 
 	[[params.navlinks]]
 	name = "日本語"
-	url = "/japanese"
+	url = "japanese/index.html"

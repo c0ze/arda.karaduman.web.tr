@@ -1,8 +1,8 @@
----
-title: "Arda Karaduman CV Page"
-date: 2018-09-30T11:27:40+09:00
-draft: false
----
++++
+title = "Arda Karaduman CV Page"
+date = 2018-09-30T11:27:40+09:00
+draft = false
++++
 
 ## Profile
 
