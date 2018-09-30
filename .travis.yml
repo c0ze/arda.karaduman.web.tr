@@ -7,7 +7,7 @@ before_install:
 script: deploy.sh
 branches:
   only:
-    - releases
+    - hugo-releases
 env:
   global:
     - secure: opd/Gl/BkYOvSHt5OPiM5Zs4aydWwfyprLXE+uD5q60rp81zPE/j9UW2Yv2JGkB445ktDGV7KgIEIkBXrPTJVK59pbOig9snKpSmJ6Xt2mEL+XhRWSyN+vGrRTJNRo4X03Ps63PJjxwFFQH9w6VtOfRwb3hekSkhp4tYOA6tHdpT2g62wWy+QJGXV5ihPC5Eewd0hBYpiJvAxc+DEYTzgT6qvCVBXe3cYgqljJXgMN2w0JXXMzQ0M+AYMUonFO8rslLUlqdKMiAvXCg2BUcTjAP1U2vRkdakikAt6svUFeY1Z0Jie4tDGQTyPGiW+7RH6CFbcRkX2Y+tcaSB108N6qEsNsekcSD2QH87TU/xBjylJSS92dnIUXwFF9s0n0I9k4Va6rxgVDAznNnaTd/874y9jpN7dEhO/AShGFCyc+aHTw/cU58IuYNUeQRU7G9jpnmaUbVUcJM2g1BnIGtVQTwxnKgteSHTkdPMBItbV0bHONxivlxlKRgLyh5momNJCVe+/9UexI2bbwW1ijjEN8PC0J5iTKfxumaeo4UDO1X8m6ISRuVqyCdzjKvzsC05vJxfpEjfoO97291CdFoSZIfht4h8AMYwpMg91kulNhyAOiubOOzViw+LeRc6Lr8zYDGMuw7TyMuhzHvT4g8Opu0+CzazJSLE722qu58wPdQ=
