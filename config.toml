@@ -1,0 +1,57 @@
+BaseURL = "https://arda.karaduman.web.tr/"
+relativeURLs = false
+languageCode = "en-us"
+title = "Arda Karaduman"
+disqusShortname = "coze"
+paginate = 5
+
+[taxonomies]
+	tag = "tags"
+	tutorial = "tutorials"
+
+[params]
+	# Render the rotating globe in the sidebar
+	showglobe = true
+
+	# Include favicon
+	favicon = "favicon.ico"
+
+	# Google Analytics
+	analytics = "UA-56175514-5"
+
+	# Email (optional)
+	email = "akaraduman@gmail.com"
+
+	# Header Title for the main page
+	header = "Arda Karaduman"
+
+	# Sidebar profile picture
+	profilepic = "img/arda.jpg"
+
+	# Title/subtitle for the sidebar
+	title = "Arda Karaduman"
+	subtitle = "Software Developer"
+
+	# Social buttons for sidebar
+	# Each of these are optional
+	[[params.socialbuttons]]
+	faicon = "github"
+	url = "https://github.com/c0ze"
+	[[params.socialbuttons]]
+	faicon = "twitter"
+	url = "https://twitter.com/ardakaraduman"
+	[[params.socialbuttons]]
+	faicon = "linkedin"
+	url = "https://www.linkedin.com/in/ardakaraduman/"
+	[[params.socialbuttons]]
+	faicon = "google-plus"
+	url = "https://plus.google.com/+ArdaKaraduman"
+
+	# Nav links below the profile picture
+	[[params.navlinks]]
+	name = "About"
+	url = "/english"
+
+	[[params.navlinks]]
+	name = "日本語"
+	url = "/japanese"
