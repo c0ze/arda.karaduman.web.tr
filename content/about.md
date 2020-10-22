@@ -25,7 +25,8 @@ A Pragmatic Programmer living In Japan since 2004. I like programming, tinkering
 * Experience writing Legacy languages such as, Java, C, PHP
 * Experience in designing and implementing Restful and GraphQL Web APIs.
 * Some experience with Game development libraries such as Cocos2dx and Gosu.
-* Front End development experience with React and Vue.js. Some Angular 1.x and Node.js experience.
+* Embedded applications development experience with Go & RaspberryPi
+* Front End development experience with React and Vue.js. Some Angular and Node.js experience.
 
 ### Toolset
 
@@ -40,7 +41,7 @@ stack I'm currently using or have used recently:
 - Frontend Tools:
   [React](https://reactjs.org/), [Vue.js](https://vuejs.org/), [BootStrap](http://getbootstrap.com/), EcmaScript6, [Hugo](https://gohugo.io)
 - Backend Tools:
-  [iris](https://github.com/kataras/iris), [RubyOnRails](http://rubyonrails.org/), [GraphQL](https://github.com/rmosolgo/graphql-ruby)
+  [echo](https://echo.labstack.com/), [gorm](https://gorm.io/index.html), [RubyOnRails](http://rubyonrails.org/), [GraphQL](https://github.com/rmosolgo/graphql-ruby)
 - Testing, Benchmarking and Profiling:
   [RSpec](https://github.com/MiniProfiler/rack-mini-profiler)
 - Persistance:
@@ -68,21 +69,30 @@ stuff I've used in my older stacks :
 
 # Work Experience
 
-## Senior Developer, Robotfund
-### Tokyo — March 2018 - Present
+## Software Developer, Mitsubishi/Warex Project
+### Tokyo — February 2020 - Present
 _Projects_:
 
-- Fullstack development of LINE fund information platform “未来のコツ”
+- Backend/API development for Warex Warehouse Management & Automation Project  
+  API development in Go lang. Stack includes Gorm, Echo, Logrus, Google Cloud Platform, MySQL, Redis, Kubernetes
+  * https://warex.ai/en
+
+## Senior Developer, Robotfund
+### Tokyo — March 2018 - February 2020
+_Projects_:
+
+- Fullstack development of LINE fund information platform “未来のコツ”  
+  Stack includes Ruby on Rails, AWS, Postgres, LINE integration, Reuters/Refinitive API integration, React.js, ImageMagick image processing
   * https://www.daiwasbi.co.jp/special/mirai/
   * https://www.daiwasbi.co.jp/pdf/news/153/news_20180903.pdf
-- Fullstack development of fund information platform Better World
-  * https://betterworld.daiwasbi.robotfund.jp/
+- Fullstack development of fund information platform Better World (discontinued)  
+  Stack includes Ruby on Rails, AWS, Postgres, Reuters/Refinitive API integration, React.js
 
 ## Contract Developer, Iron.io
-### July 2017 - Present
+### July 2017 - July 2019
 _Roles_:
 
-* Support and maintenance of Open Source serverless platform, [Iron Functions](https://open.iron.io)
+* Support and maintenance of Open Source serverless platform, [Iron Functions](https://open.iron.io) (Go lang)
 
 ## Senior Software Developer, Allm Inc
 
