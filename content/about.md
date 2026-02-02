@@ -4,6 +4,9 @@ date = 2018-09-30T11:27:40+09:00
 draft = false
 +++
 
+> [!IMPORTANT]
+> This site is now superseeded by **[resume.arda.tr](https://resume.arda.tr)**, please visit there for latest resume.
+
 ## Profile
 
 A Pragmatic Programmer living In Japan since 2004. I like programming, tinkering, hacking. Checking new languages, frameworks, trying new ideas.

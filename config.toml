@@ -2,9 +2,9 @@ BaseURL = "https://arda.karaduman.web.tr/"
 relativeURLs = false
 languageCode = "en-us"
 title = "Arda Karaduman"
-disqusShortname = "coze"
-paginate = 5
 theme = "hugo-geo"
+[pagination]
+pagerSize = 5
 
 [params]
 	# Render the rotating globe in the sidebar

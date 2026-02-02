@@ -4,6 +4,10 @@ date = 2018-09-30T11:27:45+09:00
 draft = false
 +++
 
+> [!IMPORTANT]
+> このサイトは現在 **[resume.arda.tr](https://resume.arda.tr)** に代わられています。最新の履歴書については、そちらをご覧ください。
+> (This site is now superseeded by **[resume.arda.tr](https://resume.arda.tr)**, please visit there for latest resume.)
+
 ## プロファイル
 日本在住歴10年のITスペシャリストです。
 最新のプログラミング技術を使用して優れたシステム作ることを目指しています。

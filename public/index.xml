@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Arda Karaduman</title><link>http://localhost/</link><description>Recent content on Arda Karaduman</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 30 Sep 2018 11:27:45 +0900</lastBuildDate><atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml"/><item><title>Arda Karaduman 履歴書</title><link>http://localhost/japanese/</link><pubDate>Sun, 30 Sep 2018 11:27:45 +0900</pubDate><guid>http://localhost/japanese/</guid><description>&lt;blockquote>
+&lt;p>[!IMPORTANT]
+このサイトは現在 &lt;strong>&lt;a href="https://resume.arda.tr">resume.arda.tr&lt;/a>&lt;/strong> に代わられています。最新の履歴書については、そちらをご覧ください。
+(This site is now superseeded by &lt;strong>&lt;a href="https://resume.arda.tr">resume.arda.tr&lt;/a>&lt;/strong>, please visit there for latest resume.)&lt;/p>&lt;/blockquote>
+&lt;h2 id="プロファイル">プロファイル&lt;/h2>
+&lt;p>日本在住歴10年のITスペシャリストです。
+最新のプログラミング技術を使用して優れたシステム作ることを目指しています。&lt;/p>
+&lt;h2 id="cvs">CVs&lt;/h2>
+&lt;p>&lt;a href="https://docs.google.com/document/d/1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk/export?format=pdf">PDF&lt;/a>,
+&lt;a href="https://docs.google.com/document/d/1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk/export?format=doc">MS Word&lt;/a>,
+&lt;a href="https://docs.google.com/document/d/1v563EDkOxVVfEAf0lJA9V5-KZOFtG-aULmKMtjWWWWk/edit?usp=sharing">Google Doc&lt;/a>&lt;/p>
+&lt;h3 id="スキル">スキル&lt;/h3>
+&lt;ul>
+&lt;li>メイン開発言語はRubyとGo&lt;/li>
+&lt;li>DebianとEmacsユーザー&lt;/li>
+&lt;li>様々なAWSサービスの 経験 (EC2, S3, EMR, Dynamo, SES, IAM, Route53)&lt;/li>
+&lt;li>Gitlab CI / Circle CI / Travis / Docker / Kubernetes使用ディプロイメントの経験&lt;/li>
+&lt;li>GitHub使用してTDD, BDD, アジャイル開発経験&lt;/li>
+&lt;li>関数型プログラミング知識&lt;/li>
+&lt;li>データサイエンス知識&lt;/li>
+&lt;li>React, Vue.js, Angular 1.x と Bootstrapでフロントエンド開発経験&lt;/li>
+&lt;li>Java, C, PHP開発の経験&lt;/li>
+&lt;li>RestfulとGraphQLのWeb APIのデザインと開発経験&lt;/li>
+&lt;li>Cocos2dxとGosuなどのライブラリーの簡単な趣味の開発&lt;/li>
+&lt;/ul>
+&lt;h3 id="ツールセット">ツールセット&lt;/h3>
+&lt;p>&lt;strong>開発環境&lt;/strong>:&lt;/p>
+&lt;p>&lt;a href="http://www.debian.org/">Debian&lt;/a>(&lt;a href="http://crunchbang.org/">crunchbang&lt;/a>), &lt;a href="http://www.gnu.org/software/emacs/">Emacs&lt;/a>, &lt;a href="https://www.ruby-lang.org/en/">Ruby&lt;/a>, &lt;a href="https://golang.org/">Go&lt;/a>, &lt;a href="http://aws.amazon.com/">AWS&lt;/a>&lt;/p>
+&lt;p>&lt;strong>経験ありもの&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>フロントエンド:
+&lt;a href="https://reactjs.org/">React&lt;/a>, &lt;a href="https://vuejs.org/">Vue.js&lt;/a>, &lt;a href="http://getbootstrap.com/">BootStrap&lt;/a>, EcmaScript6, &lt;a href="https://gohugo.io">Hugo&lt;/a>&lt;/li>
+&lt;li>バックエンド:
+&lt;a href="https://github.com/kataras/iris">iris&lt;/a>, &lt;a href="http://rubyonrails.org/">RubyOnRails&lt;/a>, &lt;a href="https://github.com/rmosolgo/graphql-ruby">GraphQL&lt;/a>&lt;/li>
+&lt;li>テスト＆プロファイリング:
+&lt;a href="https://github.com/MiniProfiler/rack-mini-profiler">RSpec&lt;/a>&lt;/li>
+&lt;li>データベース:
+&lt;a href="http://www.postgresql.org/">Postgresql&lt;/a>&lt;/li>
+&lt;li>DevOps, CI &amp;amp; CD :
+&lt;a href="https://circleci.com/">CircleCI&lt;/a>, &lt;a href="https://travis-ci.org/">Travis&lt;/a>, &lt;a href="https://www.docker.io/">Docker&lt;/a>&lt;/li>
+&lt;li>CVS :
+&lt;a href="http://git-scm.com/">Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="職歴">職歴&lt;/h2>
+&lt;h3 id="シニアー開発エンジニアー-株式会社-robotfund">シニアー開発エンジニアー, 株式会社 Robotfund&lt;/h3>
+&lt;h4 id="東京--3月-2018---現在">東京 　 3月 2018 - 現在&lt;/h4>
+&lt;ul>
+&lt;li>LINEでのファンドの情報アプリ“未来のコツ”の開発
+&lt;ul>
+&lt;li>&lt;a href="https://www.daiwasbi.co.jp/special/mirai/">https://www.daiwasbi.co.jp/special/mirai/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.daiwasbi.co.jp/pdf/news/153/news_20180903.pdf">https://www.daiwasbi.co.jp/pdf/news/153/news_20180903.pdf&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ファンドの情報サイトの開発
+&lt;ul>
+&lt;li>&lt;a href="https://betterworld.daiwasbi.robotfund.jp/">https://betterworld.daiwasbi.robotfund.jp/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="フリータイム開発者-ironio">フリータイム開発者, Iron.io&lt;/h2>
+&lt;h3 id="7月-2017---現在">7月 2017 - 現在&lt;/h3>
+&lt;ul>
+&lt;li>オープンソースサーバーレスファンクション &lt;a href="https://open.iron.io">Iron Functions&lt;/a>のサポートと開発&lt;/li>
+&lt;/ul>
+&lt;h3 id="シニアー開発エンジニアー-株式会社-allm">シニアー開発エンジニアー, 株式会社 Allm&lt;/h3>
+&lt;h4 id="東京--12月-2014---3月-2018">東京 　 12月 2014 - 3月 2018&lt;/h4>
+&lt;p>医療系のAPIとアプリ開発。&lt;/p></description></item><item><title>Arda Karaduman CV Page</title><link>http://localhost/about/</link><pubDate>Sun, 30 Sep 2018 11:27:40 +0900</pubDate><guid>http://localhost/about/</guid><description>&lt;blockquote>
+&lt;p>[!IMPORTANT]
+This site is now superseeded by &lt;strong>&lt;a href="https://resume.arda.tr">resume.arda.tr&lt;/a>&lt;/strong>, please visit there for latest resume.&lt;/p>&lt;/blockquote>
+&lt;h2 id="profile">Profile&lt;/h2>
+&lt;p>A Pragmatic Programmer living In Japan since 2004. I like programming, tinkering, hacking. Checking new languages, frameworks, trying new ideas.&lt;/p>
+&lt;h2 id="cvs">CVs&lt;/h2>
+&lt;p>&lt;a href="https://docs.google.com/document/d/1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0/export?format=pdf">PDF&lt;/a>,
+&lt;a href="https://docs.google.com/document/d/1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0/export?format=doc">MS Word&lt;/a>,
+&lt;a href="https://docs.google.com/document/d/1jQl6dgdcU8HG4aGyLrFaVEYd9_KwkfPNFcnzT4B4bs0/edit?usp=sharing">Google Doc&lt;/a>&lt;/p>
+&lt;h3 id="skills">Skills&lt;/h3>
+&lt;ul>
+&lt;li>Mainly proficient in Ruby and Go&lt;/li>
+&lt;li>Debian &amp;amp; Emacs user. Very comfortable in unix environments and writing bash scripts&lt;/li>
+&lt;li>Extensive knowledge of AWS resources. Hands on experience with EC2, S3, EMR, Dynamo, SES, IAM, Route53&lt;/li>
+&lt;li>Early adopter of Continuous Integration and Continuous Deployment. Proficient in GitlabCI / CircleCI / Docker / Kubernetes&lt;/li>
+&lt;li>Experience with TDD, BDD, Agile and GitHub driven development&lt;/li>
+&lt;li>Functional programming background&lt;/li>
+&lt;li>Experience writing Legacy languages such as, Java, C, PHP&lt;/li>
+&lt;li>Experience in designing and implementing Restful and GraphQL Web APIs.&lt;/li>
+&lt;li>Some experience with Game development libraries such as Cocos2dx and Gosu.&lt;/li>
+&lt;li>Embedded applications development experience with Go &amp;amp; RaspberryPi&lt;/li>
+&lt;li>Front End development experience with React and Vue.js. Some Angular and Node.js experience.&lt;/li>
+&lt;/ul>
+&lt;h3 id="toolset">Toolset&lt;/h3>
+&lt;p>&lt;strong>Preferred environment&lt;/strong>:&lt;/p></description></item></channel></rss>
