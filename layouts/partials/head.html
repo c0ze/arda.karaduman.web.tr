@@ -26,12 +26,12 @@
     {{ if .Params.highlight }}
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.7/styles/default.min.css">
     {{ end }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/style.css">
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
     {{ with .OutputFormats.Get "rss" }}
     <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
     {{ end }}
     {{ if isset .Site.Params "favicon" }}
-    <link rel="icon" href="{{ .Site.BaseURL }}{{ .Site.Params.favicon }}" />
+    <link rel="icon" href="{{ .Site.Params.favicon | relURL }}" />
     {{ end }}
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

@@ -11,7 +11,7 @@
 		{{ end }}
 
 		{{ if isset .Site.Params "profilepic" }}
-			<img id="profile-pic" src="{{ .Site.BaseURL }}{{ .Site.Params.profilepic }}" alt="My Picture" class="img-circle center-block">
+			<img id="profile-pic" src="{{ .Site.Params.profilepic | relURL }}" alt="My Picture" class="img-circle center-block">
 		{{ end }}
 		<div id="social" class="text-center">
 			{{ range .Site.Params.socialbuttons }}
